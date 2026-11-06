@@ -1,6 +1,6 @@
 ---
 name: claude-e2e-catalog-skill
-description: Test fixture for Spellwarden's catalog checks. Gives a short checklist for reading a Terraform plan before it is applied.
+description: Test fixture for Spellwarden's catalog checks. Gives a short checklist for reading a Terraform plan before anyone applies it.
 version: 1.0.0
 license: Apache-2.0
 publisher: Spellwarden
