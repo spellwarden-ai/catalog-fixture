@@ -1,0 +1,7 @@
+{
+  "name": "claude-e2e-catalog",
+  "version": "1.0.0",
+  "description": "Test fixture for Spellwarden's catalog production checks.",
+  "author": {"name": "Spellwarden", "email": "hello@spellwarden.ai"},
+  "license": "Apache-2.0"
+}

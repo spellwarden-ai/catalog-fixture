@@ -1,0 +1,11 @@
+{
+  "name": "spellwarden-catalog-fixture",
+  "owner": {"name": "Spellwarden", "email": "hello@spellwarden.ai"},
+  "plugins": [
+    {
+      "name": "claude-e2e-catalog",
+      "source": "./plugins/claude-e2e-catalog",
+      "description": "Test fixture for Spellwarden's catalog production checks."
+    }
+  ]
+}
